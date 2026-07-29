@@ -20,7 +20,7 @@ https://damilolaarojo.github.io/online-foodshop-website/
 
 ## 📸 Screenshot
 
-(Add a screenshot here later.)
+![Online Food Shop Website](damilolaarojo.github.io_online-foodshop-website_.png)
 
 ## 👨🏽‍💻 Author
 
